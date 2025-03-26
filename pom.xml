@@ -11,8 +11,6 @@
 	<groupId>com.CodePipeline</groupId>
 	<artifactId>order-serviceDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>order-serviceDemo</name>
-	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
